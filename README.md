@@ -103,3 +103,4 @@ If we tried to do this using an uncontrolled component, the input would be enter
 - [Controlled vs Uncontrolled](https://www.sitepoint.com/video-controlled-vs-uncontrolled-components-in-react/) - Video
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-forms'>Forms</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Controlled Components</p>
